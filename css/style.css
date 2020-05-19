@@ -1,0 +1,29 @@
+body{
+    background: url(../images/lapy1.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Cookie', cursive;
+}
+.navbar-brand{
+    color: solid black;
+    font-size: 29px;
+}
+.navbar navbar-expand-lg navbar-light bg-light{
+    background-color: dimgray;
+}
+h1{
+    font-size: 60px;
+    color:red;
+    
+}
+p{
+    font-size: 30px;
+    color:red;
+    
+}
+.center{
+    text-align: center;
+    padding-top: 19%;
+}
+
+
+
